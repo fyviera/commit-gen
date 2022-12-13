@@ -24,8 +24,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "asepmlnaaa@gmail.com"
-          git config --local user.name "Yukki"
+          git config --local user.email "librya@proton.me"
+          git config --local user.name "fyviera"
           git add -A
 
           arr[0]="bot: 👋 Hello Github!"
